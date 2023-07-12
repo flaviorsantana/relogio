@@ -1,0 +1,33 @@
+*{
+    margin: auto;
+    padding-block: min(10vh, 10rem);
+}
+
+body{
+    background-color: #003852;
+    color: #e7e7d4;
+}
+
+.relogio {
+    display: flex;
+    border: 5px solid #e7e7d4;
+    padding: auto;
+    width: 90%;
+    justify-content: center;
+}
+
+.block {
+    display: block;
+  }
+
+.relogio span {
+    font-size: 80px;
+    flex-direction: column;
+}
+
+@media screen and (max-width: 700px){
+    .relogio{
+        width: 100%;
+        flex-direction:column;
+}
+}
