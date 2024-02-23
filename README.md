@@ -10,3 +10,6 @@ https://flaviorsantana.github.io/relogio/
 * JavaScript
 * Css
 
+[Captura de tela 2024-02-23 154426](https://github.com/flaviorsantana/relogio/assets/132366877/d68a9f6f-8d11-4975-936b-903286d4773b)
+
+
